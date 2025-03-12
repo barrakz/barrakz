@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bartek, Python Backend Developer:
+# Hi 👋, I'm Bartek:
 
 ## 👨‍💻 About Me
 I'm a backend developer focused on Python, Django, and FastAPI.
