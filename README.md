@@ -17,7 +17,9 @@ I'm a backend developer focused on Python, Django, and FastAPI.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bar.tu.la) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brakuzy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:b.rakuzy@gmail.com) 
 
-<img src="https://media.giphy.com/media/G3Hu8RMcnHZA2JK6x1/giphy.gif" width="200"/>
+Thanks for visiting! 🙌
+
+<img src="https://media.giphy.com/media/2IHgrhYQuVbRZLQE73/giphy.gif" width="400"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
